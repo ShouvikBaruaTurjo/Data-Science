@@ -8,3 +8,10 @@ Tools used in making this project,
   - Jupyter notebook, visual studio code and pycharm as IDE
   - Python flask for http server
   - HTML/CSS/Javascript for UI
+
+__Project Architecture__
+
+
+
+![price_pridiction_diagram drawio](https://github.com/user-attachments/assets/a1ba7ef3-5d48-4718-9c56-9bd05c6cc110)
+
